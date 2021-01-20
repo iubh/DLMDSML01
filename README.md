@@ -20,7 +20,16 @@ We analyze clustering algorithms from a theoretical perspective, starting with d
 
 We deepen our understanding of random forest algorithms, namely how boosting trees work. After discussing an analytical example we go over to the scikit learn's implementation of boosted trees as well as most recent algorithms, like XGBoost, LightGBM and CatBoost.
 
-### Genetic Algorithms
+### Genetic Algorithms (GAs)
+
+#### Part 1 - Theory and Concepts
+
+Based on *Haupt & Haupt, Practical Genetic Algorithms (2004)* we discuss how to approach GAs both for binary as well as continuous problems. We try to understand how to encode variables, find the initial population, perform the natural selection process as well as mating/crossover and mutations until convergence is reached. 
+
+*    `Q_A_genetic_algorithms_theory.ipynb` (last update: 2021-01-19): Jupyter notebook exploring
+how to approach GAs for binary and continuous problems. 
+
+#### Part 2 - Applications
 
 ### Performance Metrics
 
