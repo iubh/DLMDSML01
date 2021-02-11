@@ -4,13 +4,40 @@
 
 ### Introduction to Machine-Learning
 
+<details>
+           <summary>Hands-On Regression & Classification</summary>
+           <p> `01_intro_to_ml.ipynb` (last update: xx-xx-xx) </p>
+         </details>
+
 ### Clustering
+
+#### Part 1
 
 #### Part 2
 
 We analyze clustering algorithms from a theoretical perspective, starting with developing a concept of similarity measures, discussing metrics to measure the quality of clustering methods, until going into detail on different clustering techniques. Finally we discuss hierarchical clustering in detail.
 
-### Regression
+### Regression and Classification
+
+<details>
+           <summary>Hands-On Regression</summary>
+           <p> `regression.ipynb` (last update: xx-xx-xx)</p>
+         </details>
+
+<details>
+           <summary>Hands-On Classification</summary>
+           <p> not yet prepared </p>
+         </details>
+
+<details>
+           <summary>Theory and Concepts of Regression</summary>
+           <p> hand-written document on *Tutorial Documents* </p>
+         </details> 
+
+<details>
+           <summary>Multiclass Classification</summary>
+           <p> `multiclass_classification.ipynb` (last update: 2021-02-09): We discuss how to generalize a classification problem to a multiclass classification problem. First of all, we show how to transform a logistic regression model into a multinomial logistic regression model. Then we show, with the use of the Iris dataset, how to generalize the sklearn classification algorithms to multiclass problems. After an outlook into multiclass performance metrics, like a multiclass confusion matrix, we discuss so-called meta-estimators available in *sklearn.multiclass* which help to increase accuracy and runtime performance of the classifiers .    </p>
+         </details>
 
 ### Support Vector Machines
 
@@ -47,4 +74,4 @@ We discuss the basic principles of how to implement recommendation systems. For 
 
 *    `12_recommendation_systems.ipynb` (last update: 2021-01-05): Jupyter notebook implementing a user-based collaborative filtering movie recommendation system.
 
-### Multilabel Classification
+
