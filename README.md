@@ -58,20 +58,29 @@ how to approach GAs for binary and continuous problems.
 
 #### Part 2 - Applications
 
-### Performance Metrics
+### Additional Material 
 
-We discuss how to evaluate the performance of a machine-learning algorithm, both for
-supervised and unsupervised tasks.
+<details>
+           <summary>Performance Metrics </summary>
+           <p> performance_measures.ipynb (last update: 2020-12-22)
+               We discuss how to evaluate the performance of a machine-learning algorithm, both for
+supervised and unsupervised tasks. Jupyter notebook exploring
+the individual performance measures from the *sklearn.metrics* functions. 
+ </p>
+         </details>
 
-Sources:
+ <details>
+           <summary>Recommendation Systems </summary>
+           <p> recommendation_systems.ipynb` (last update: 2021-01-05): 
+               We discuss the basic principles of how to implement recommendation systems. For the MovieLens dataset we build up a first, simple user-based collaborative filtering movie recommendation system.
+ </p>
+         </details>
 
-*    `11_performance_measures.ipynb` (last update: 2020-12-22): Jupyter notebook exploring
-the individual performance measures from the *sklearn.metrics* functions.   
-
-### Recommendation Systems
-
-We discuss the basic principles of how to implement recommendation systems. For the MovieLens dataset we build up a first, simple user-based collaborative filtering movie recommendation system.
-
-*    `12_recommendation_systems.ipynb` (last update: 2021-01-05): Jupyter notebook implementing a user-based collaborative filtering movie recommendation system.
+<details>
+           <summary>Machine Learning and Parallel Computing </summary>
+           <p> multiclass_classification.ipynb (last update: 2021-02-23): 
+               We show on a simple example how easy it is to parallelize a for-loop in python (see main.py and main_multi.py). We then turn to parallelizable tasks in Machine Learning, the difference between data and model parallelization, GPU usage and cloud computing.
+ </p>
+         </details>
 
 
