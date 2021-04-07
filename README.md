@@ -17,8 +17,8 @@
 ### Regression & Classification
 
 <details>
-           <summary>Hands-On Regression</summary>
-           <p> 03_regression.ipynb (last update: xx-xx-xx)</p>
+           <summary>Regression</summary>
+           <p> 03_regression.ipynb (last update: 2021-04-06)</p>
 </details>
 
 <details>
@@ -26,10 +26,6 @@
            <p> not yet prepared (last update: xx-xx-xx)</p>
 </details>
 
-<details>
-           <summary>Theory and Concepts of Regression</summary>
-           <p> hand-written document on Tutorial Documents </p>
-</details> 
 
 <details>
            <summary>Multiclass Classification</summary>
@@ -58,36 +54,34 @@ We deepen our understanding of random forest algorithms, namely how boosting tre
 
 #### Part 1 - Theory and Concepts
 
-Based on *Haupt & Haupt, Practical Genetic Algorithms (2004)* we discuss how to approach GAs both for binary as well as continuous problems. We try to understand how to encode variables, find the initial population, perform the natural selection process as well as mating/crossover and mutations until convergence is reached. 
+Based on *Haupt & Haupt, Practical Genetic Algorithms (2004)* we discuss how to approach GAs both for binary as well as continuous problems. We try to understand how to encode variables, find the initial population, perform the natural selection process as well as mating/crossover and mutations until convergence is reached.
 
 *    `Q_A_genetic_algorithms_theory.ipynb` (last update: 2021-01-19): Jupyter notebook exploring
-how to approach GAs for binary and continuous problems. 
+how to approach GAs for binary and continuous problems.
 
 #### Part 2 - Applications
 
-### Additional Material 
+### Additional Material
 
 <details>
            <summary>Performance Metrics </summary>
            <p> performance_measures.ipynb (last update: 2020-12-22)
                We discuss how to evaluate the performance of a machine-learning algorithm, both for
 supervised and unsupervised tasks. Jupyter notebook exploring
-the individual performance measures from the *sklearn.metrics* functions. 
+the individual performance measures from the *sklearn.metrics* functions.
  </p>
          </details>
 
  <details>
            <summary>Recommendation Systems </summary>
-           <p> recommendation_systems.ipynb` (last update: 2021-01-05): 
+           <p> recommendation_systems.ipynb` (last update: 2021-01-05):
                We discuss the basic principles of how to implement recommendation systems. For the MovieLens dataset we build up a first, simple user-based collaborative filtering movie recommendation system.
  </p>
          </details>
 
 <details>
            <summary>Machine Learning and Parallel Computing </summary>
-           <p> multiclass_classification.ipynb (last update: 2021-02-23): 
+           <p> multiclass_classification.ipynb (last update: 2021-02-23):
                We show on a simple example how easy it is to parallelize a for-loop in python (see main.py and main_multi.py). We then turn to parallelizable tasks in Machine Learning, the difference between data and model parallelization, GPU usage and cloud computing.
  </p>
          </details>
-
-
