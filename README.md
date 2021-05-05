@@ -5,8 +5,8 @@
 ### Introduction to Machine-Learning & Optimization
 
 <details>
-           <summary>Hands-On First Machine Learning Model</summary>
-           <p> 01_intro_to_ml.ipynb (last update: 2021-03-09) </p>
+           <summary>Our First Machine Learning Models</summary>
+           <p> 01_intro_to_ml.ipynb (last update: 2021-04-26) </p>
 </details>
 
 <details>
@@ -29,37 +29,51 @@
 
 <details>
            <summary>Multiclass Classification</summary>
-           <p> `multiclass_classification.ipynb` (last update: 2021-02-09): We discuss how to generalize a classification problem to a multiclass classification problem. First of all, we show how to transform a logistic regression model into a multinomial logistic regression model. Then we show, with the use of the Iris dataset, how to generalize the sklearn classification algorithms to multiclass problems. After an outlook into multiclass performance metrics, like a multiclass confusion matrix, we discuss so-called meta-estimators available in *sklearn.multiclass* which help to increase accuracy and runtime performance of the classifiers .    </p>
+           <p> multiclass_classification.ipynb (last update: 2021-02-09): We discuss how to generalize a classification problem to a multiclass classification problem. First of all, we show how to transform a logistic regression model into a multinomial logistic regression model. Then we show, with the use of the Iris dataset, how to generalize the sklearn classification algorithms to multiclass problems. After an outlook into multiclass performance metrics, like a multiclass confusion matrix, we discuss so-called meta-estimators available in *sklearn.multiclass* which help to increase accuracy and runtime performance of the classifiers . </p>
 </details>
 
 
 ### Clustering
 
-#### Part 1
+<details>
+           <summary>Hands-On Clustering</summary>
+           <p> 02_clustering.ipynb (last update: 2021-04-26): We analyze clustering algorithms both from a practical and a theoretical perspective. We go into detail of different clustering approaches, like k-means clustering, Gaussian mixture models, DBSCAN and hierachical clustering. In order to gain insights into the theoretical aspects of clustering we discuss the concept of similarity measures and define metrics to measure the quality of clustering methods. Finally we evaluate our techniques on a clustering use case.</p>
+</details>
 
-#### Part 2
-
-We analyze clustering algorithms from a theoretical perspective, starting with developing a concept of similarity measures, discussing metrics to measure the quality of clustering methods, until going into detail on different clustering techniques. Finally we discuss hierarchical clustering in detail.
-
+<details>
+           <summary>Hands-On Clustering - Part II</summary>
+           <p> 02b_clustering.ipynb (last update: 2021-05-04)</p>
+</details>
 
 ### Support Vector Machines
 
 ### Decision Trees and Ensemble Methods
 
+<details>
+           <summary>Decision Trees and Random Forests </summary>
+           <p> 05_decision_trees_and_random_forests.ipynb (last update: xxxx-xx-xx)</p>
+</details>
+
+<details>
+           <summary>Boosting Methods</summary>
+           <p> 09_boosting_methods.ipynb (last update: xxxx-xx-xx): We deepen our understanding of random forest algorithms, namely how boosting trees work. After discussing an analytical example we go over to the scikit learn's implementation of boosted trees as well as most recent algorithms, like XGBoost, LightGBM and CatBoost.</p>
+</details>
+
 #### Part 2
 
-We deepen our understanding of random forest algorithms, namely how boosting trees work. After discussing an analytical example we go over to the scikit learn's implementation of boosted trees as well as most recent algorithms, like XGBoost, LightGBM and CatBoost.
 
 ### Genetic Algorithms (GAs)
 
-#### Part 1 - Theory and Concepts
+<details>
+           <summary>Part 1 - Theory and Concepts</summary>
+           <p> Q_A_genetic_algorithms_theory.ipynb (last update: 2021-01-19): Based on *Haupt & Haupt, Practical Genetic Algorithms (2004)* we discuss how to approach GAs both for binary as well as continuous problems. We try to understand how to encode variables, find the initial population, perform the natural selection process as well as mating/crossover and mutations until convergence is reached.</p>
+</details>
 
-Based on *Haupt & Haupt, Practical Genetic Algorithms (2004)* we discuss how to approach GAs both for binary as well as continuous problems. We try to understand how to encode variables, find the initial population, perform the natural selection process as well as mating/crossover and mutations until convergence is reached.
+<details>
+           <summary>Part 2 - Applications</summary>
+           <p> Q_A_genetic_algorithms_applications.ipynb (last update: xxxx-xx-xx)</p>
+</details>
 
-*    `Q_A_genetic_algorithms_theory.ipynb` (last update: 2021-01-19): Jupyter notebook exploring
-how to approach GAs for binary and continuous problems.
-
-#### Part 2 - Applications
 
 ### Additional Material
 
@@ -83,5 +97,12 @@ the individual performance measures from the *sklearn.metrics* functions.
            <summary>Machine Learning and Parallel Computing </summary>
            <p> multiclass_classification.ipynb (last update: 2021-02-23):
                We show on a simple example how easy it is to parallelize a for-loop in python (see main.py and main_multi.py). We then turn to parallelizable tasks in Machine Learning, the difference between data and model parallelization, GPU usage and cloud computing.
+ </p>
+         </details>
+
+<details>
+           <summary>Open Questions </summary>
+           <p> open_questions.ipynb (not yet prepared):
+               Open questions on Machine Learning, where you can test your knowledge and understanding. 
  </p>
          </details>
