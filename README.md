@@ -47,19 +47,22 @@
 
 ### Support Vector Machines
 
+<details>
+           <summary>Hands-On Support Vector Machines</summary>
+           <p> 04_support_vector_machines.ipynb (last update: 2021-06-08)</p>
+</details>
+
 ### Decision Trees and Ensemble Methods
 
 <details>
            <summary>Decision Trees and Random Forests </summary>
-           <p> 05_decision_trees_and_random_forests.ipynb (last update: xxxx-xx-xx)</p>
+           <p> 05_decision_trees_and_random_forests.ipynb (last update: 2021-06-22)</p>
 </details>
 
 <details>
            <summary>Boosting Methods</summary>
            <p> 09_boosting_methods.ipynb (last update: xxxx-xx-xx): We deepen our understanding of random forest algorithms, namely how boosting trees work. After discussing an analytical example we go over to the scikit learn's implementation of boosted trees as well as most recent algorithms, like XGBoost, LightGBM and CatBoost.</p>
 </details>
-
-#### Part 2
 
 
 ### Genetic Algorithms (GAs)
@@ -102,7 +105,7 @@ the individual performance measures from the *sklearn.metrics* functions.
 
 <details>
            <summary>Open Questions </summary>
-           <p> open_questions.ipynb (not yet prepared):
+           <p> open_questions.ipynb (last update: 2021-06-22):
                Open questions on Machine Learning, where you can test your knowledge and understanding. 
  </p>
          </details>
