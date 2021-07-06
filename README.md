@@ -61,7 +61,7 @@
 
 <details>
            <summary>Boosting Methods</summary>
-           <p> 09_boosting_methods.ipynb (last update: xxxx-xx-xx): We deepen our understanding of random forest algorithms, namely how boosting trees work. After discussing an analytical example we go over to the scikit learn's implementation of boosted trees as well as most recent algorithms, like XGBoost, LightGBM and CatBoost.</p>
+           <p> 09_boosting_methods.ipynb (last update: 2021-07-06): We deepen our understanding of random forest algorithms, namely how boosting trees work. After discussing an analytical example we go over to the scikit learn's implementation of boosted trees. We also discuss most recent algorithms, as XGBoost, LightGBM and CatBoost.</p>
 </details>
 
 
@@ -105,7 +105,7 @@ the individual performance measures from the *sklearn.metrics* functions.
 
 <details>
            <summary>Open Questions </summary>
-           <p> open_questions.ipynb (last update: 2021-06-22):
+           <p> open_questions.ipynb (last update: 2021-07-06):
                Open questions on Machine Learning, where you can test your knowledge and understanding. 
  </p>
          </details>
