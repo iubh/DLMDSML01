@@ -68,13 +68,13 @@
 ### Genetic Algorithms (GAs)
 
 <details>
-           <summary>Part 1 - Theory and Concepts</summary>
-           <p> Q_A_genetic_algorithms_theory.ipynb (last update: 2021-01-19): Based on *Haupt & Haupt, Practical Genetic Algorithms (2004)* we discuss how to approach GAs both for binary as well as continuous problems. We try to understand how to encode variables, find the initial population, perform the natural selection process as well as mating/crossover and mutations until convergence is reached.</p>
+           <summary>Theory and Concepts</summary>
+           <p> Q_A_genetic_algorithms_theory.ipynb (last update: 2021-07-20): Based on *Haupt & Haupt, Practical Genetic Algorithms (2004)* we discuss how to approach GAs both for binary as well as continuous problems. We try to understand how to encode variables, find the initial population, perform the natural selection process, discuss mating/crossover strategies and mutation strategies until convergence is reached.</p>
 </details>
 
 <details>
-           <summary>Part 2 - Applications</summary>
-           <p> Q_A_genetic_algorithms_applications.ipynb (last update: xxxx-xx-xx)</p>
+           <summary>Applications</summary>
+           <p> Q_A_genetic_algorithms_applications.ipynb: The knapsack problem and the traveling salesman problem. (last update: 2021-07-20)</p>
 </details>
 
 
