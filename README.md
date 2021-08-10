@@ -5,8 +5,13 @@
 ### Introduction to Machine-Learning & Optimization
 
 <details>
+           <summary>Machine Learning Applications</summary>
+           <p> 01b_ml_applications.ipynb (last update: 2021-08-10) </p>
+</details>
+
+<details>
            <summary>Our First Machine Learning Models</summary>
-           <p> 01_intro_to_ml.ipynb (last update: 2021-04-26) </p>
+           <p> 01_intro_to_ml.ipynb (last update: 2021-08-10) </p>
 </details>
 
 <details>
@@ -105,7 +110,7 @@ the individual performance measures from the *sklearn.metrics* functions.
 
 <details>
            <summary>Open Questions </summary>
-           <p> open_questions.ipynb (last update: 2021-07-06):
+           <p> open_questions.ipynb (last update: 2021-08-10):
                Open questions on Machine Learning, where you can test your knowledge and understanding. 
  </p>
          </details>
