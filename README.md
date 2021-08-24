@@ -6,12 +6,12 @@
 
 <details>
            <summary>Machine Learning Applications</summary>
-           <p> 01b_ml_applications.ipynb (last update: 2021-08-10) </p>
+           <p> 01b_ml_applications.ipynb (last update: 2021-08-22) </p>
 </details>
 
 <details>
-           <summary>Our First Machine Learning Models</summary>
-           <p> 01_intro_to_ml.ipynb (last update: 2021-08-10) </p>
+           <summary>Our First Machine Learning Model</summary>
+           <p> 01_intro_to_ml.ipynb (last update: 2021-08-22) </p>
 </details>
 
 <details>
