@@ -50,6 +50,11 @@
            <p> 02b_clustering.ipynb (last update: 2021-05-04)</p>
 </details>
 
+<details>
+           <summary>Additional: Maximum Likelihood and Expectation-Maximization Algorithm</summary>
+           <p> 02c_MLE_and_EM_algorithm.ipynb (last update: 2021-10-19)</p>
+</details>
+
 ### Support Vector Machines
 
 <details>
